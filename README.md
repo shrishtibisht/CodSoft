@@ -1,16 +1,8 @@
-# CodSoft Internship Projects
-
-This repository contains the tasks I completed during my internship at CodSoft, where I worked on multiple machine learning projects. Below are the details of the tasks:
+# Titanic Survival Prediction
 
 # Table of Contents:
 
 **Overview**
-
-**Task 1: Titanic Survival Prediction**
-
-**Task 2:** 
-
-**Task 3:** 
 
 **Technologies Used**
 
@@ -19,26 +11,7 @@ This repository contains the tasks I completed during my internship at CodSoft, 
 **Acknowledgments**
 
 # Overview
-This repository showcases the work completed during my CodSoft internship, which involved various machine learning tasks aimed at solving real-world problems. The tasks required using Python and machine learning libraries like Pandas, NumPy, Scikit-learn, and Matplotlib.
-
-
-# **Task 1: Titanic Survival Prediction**
-Objective: Predict whether a passenger survived or not based on features such as age, gender, class, and fare.
-
-Dataset: Titanic dataset from Kaggle.
-
-Approach:
-
-Data preprocessing involved handling missing values in the Age and Embarked columns and encoding categorical variables like Sex and Embarked.
-
-I used Logistic Regression and Random Forest models to build a classification model.
-
-The models were evaluated using accuracy metrics, with 81% accuracy on training data and 79% accuracy on test data.
-
-This task helped me develop a strong understanding of classification problems and how to handle common challenges such as missing data and feature encoding.
-
-
-
+This project focuses on predicting the survival of passengers aboard the RMS Titanic using machine learning techniques. By analyzing various features such as age, gender, and ticket class, the model aims to uncover patterns that influenced survival outcomes. The objective is to apply data science methodologies to a historical dataset, enhancing understanding of classification problems and model evaluation.
 
 # Technologies Used
 Python (Primary Language)
@@ -57,8 +30,10 @@ Jupyter Notebook (For interactive code execution)
 
 
 # Conclusion
-This repository showcases the key projects completed during my internship at CodSoft. The tasks gave me hands-on experience in machine learning, data preprocessing, model evaluation, and real-world problem-solving. I am excited to continue expanding my knowledge in data science and machine learning.
+Through this project, a machine learning model was developed to predict passenger survival on the Titanic. The process involved data preprocessing, feature engineering, model training, and evaluation. The final model achieved an accuracy of 81% on the training set and 79% on the test set. This endeavor provided practical experience in handling real-world datasets and applying machine learning techniques effectively.
 
+# Acknowledgement
+I would like to express my sincere gratitude to all the individuals and resources that supported me throughout this project. Their guidance and insights were invaluable in navigating the complexities of data analysis and machine learning. This project has been a significant step in my journey toward becoming a proficient data scientist.
 # Acknowledgments
 CodSoft for providing the opportunity to work on diverse machine learning tasks.
 
